@@ -1,12 +1,12 @@
 
-# [Download](https://github.com/oJumpy/BOCW-T9-Zombies-AutoTimers/releases/download/CWASL/Cold.War-3-Master.asl)
+# [Download](https://github.com/oJumpy/BOCW-T9-Zombies-AutoTimer/releases/download/CWASL/Cold.War-Master.asl)
 
 ## BOCW-T9-Zombies-AutoTimers
 A LiveSplit script for Call of Duty: Black Ops Cold War Zombies. 
 
 ## Setup
 1. Download Livesplit [Site](https://livesplit.org/downloads/) or [Direct Link](https://github.com/LiveSplit/LiveSplit/releases/download/1.8.33/LiveSplit_1.8.33.zip)
-1. Right Click LiveSplit → Edit Layout → `+` button → Control → Scriptable Auto Splitter → Browse to `Black-Ops-3-Master.asl` and select it.
+1. Right Click LiveSplit → Edit Layout → `+` button → Control → Scriptable Auto Splitter → Browse to `Cold War-Master.asl` and select it.
 
    <img width="171" height="408" alt="image" src="https://github.com/user-attachments/assets/6c73bba6-de80-47d0-baf6-23e54746fb8e" />
    <img width="546" height="352" alt="image" src="https://github.com/user-attachments/assets/a2646ab6-2bc3-42c2-aaff-b701996d242b" />
@@ -23,7 +23,6 @@ A LiveSplit script for Call of Duty: Black Ops Cold War Zombies.
 ## AutoSplitter Recommendations
 - [LiveSplit Components](https://github.com/oJumpy/Livesplit-AutoTimers-BOIII/releases/download/V3.0/Useful.zip)
 - [My Layout](https://github.com/oJumpy/IW7-Zombies-AutoTimers/releases/download/v1/recommended_layout.lsl)
-- [Useful stuff, like round times in solo, 2p, 3p and 4p](https://github.com/oJumpy/Livesplit-AutoTimers-BOIII/releases/download/V3.0/Useful.rar)
 
   ![image](https://github.com/user-attachments/assets/ab38b042-d2d3-4ef8-8501-487a74515c08)
 
