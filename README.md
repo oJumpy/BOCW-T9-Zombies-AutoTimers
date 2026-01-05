@@ -17,7 +17,7 @@ A LiveSplit script for Call of Duty: Black Ops Cold War Zombies.
 1. Right Click LiveSplit → Compare Against → Select `Game Time`, Look down to where it says: *Best Segments*, *Average Segments*...
 
 ## Setting up Splits
-- Download [Blank Splits to 1000](https://github.com/oJumpy/IW7-Zombies-AutoTimers/releases/download/v1/Blank.to.1000.lss).
+- Download [Blank Splits to 935](https://github.com/oJumpy/BOCW-T9-Zombies-AutoTimer/releases/download/CWASL/Bank.to.935.lss).
 - Right Click LiveSplit → `Open Splits` → `From File...` → Browse to the splits file and select it.
 
 ## AutoSplitter Recommendations
